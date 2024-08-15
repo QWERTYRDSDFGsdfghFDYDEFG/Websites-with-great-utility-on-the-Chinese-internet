@@ -1,4 +1,4 @@
 | Link Name       | URL                                                    | Description                    |
 |-----------------|--------------------------------------------------------|--------------------------------|
-| 油猴            | https://greasyfork.org/zh-CN/scripts/459541-youtube-adb   去除页面广告和视频广告          |   
+| 油猴            | https://greasyfork.org/zh-CN/scripts/459541-youtube-adb|   去除页面广告和视频广告        |   
 
